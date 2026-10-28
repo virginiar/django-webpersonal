@@ -29,3 +29,13 @@ La ejecución se realiza con:
 ```bash
 pipenv run webpersonal
 ```
+
+- Aplicación de las migraciones iniciales
+```bash
+python manage.py migrate
+```
+
+- Creación de una aplicación
+```bash
+python manage.py startapp core
+```

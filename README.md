@@ -2,6 +2,13 @@
 Proyecto básico de introducción a Django, basado en la creación de una web sencilla con un portafolio dinámico y un panel de administración para manejar los proyectos del portafolio.
 Basado en el curso [Curso Práctico de Django: Desarrollo Web Backend con Python](udemy.com/course/curso-django-2-practico-desarrollo-web-python-3/).
 
+Conceptos utilizados:
+- Estructura básica de un proyecto en Django
+- División en aplicaciones
+- Creación de páginas con HttpResponse
+- Utilización de plantillas
+- Plantillas con herencia
+
 ## Instalación con Pipenv
 - Instalación de paquetes
 ```bash
@@ -13,7 +20,7 @@ pipenv install django django-ckeditor Pillow pylint pylint-django pylint-celery
 pipenv run django-admin startproject django-webpersonal
 ```
 
-# Ejecución del proyecto
+## Ejecución del proyecto
 - Ejecución directa
 ```bash
 pipenv run python django-webpersonal/manage.py runserver
@@ -30,7 +37,7 @@ La ejecución se realiza con:
 pipenv run webpersonal
 ```
 
-# Ampliando el proyecto
+## Ampliando el proyecto
 - Aplicación de las migraciones iniciales
 ```bash
 python manage.py migrate

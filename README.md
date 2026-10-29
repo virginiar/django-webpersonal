@@ -30,6 +30,7 @@ La ejecución se realiza con:
 pipenv run webpersonal
 ```
 
+# Ampliando el proyecto
 - Aplicación de las migraciones iniciales
 ```bash
 python manage.py migrate

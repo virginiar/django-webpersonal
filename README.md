@@ -8,6 +8,7 @@ Conceptos utilizados:
 - Creación de páginas con HttpResponse
 - Utilización de plantillas
 - Plantillas con herencia
+- Template tag url
 
 ## Instalación con Pipenv
 - Instalación de paquetes

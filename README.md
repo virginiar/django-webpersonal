@@ -9,6 +9,8 @@ Conceptos utilizados:
 - Utilización de plantillas
 - Plantillas con herencia
 - Template tag url
+- Carga de ficheros estáticos
+- Template tag if y request.path
 
 ## Instalación con Pipenv
 - Instalación de paquetes

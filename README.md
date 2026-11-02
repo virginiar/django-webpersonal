@@ -67,3 +67,8 @@ python manage.py makemigrations portfolio
 ```bash
 python manage.py migrate portfolio
 ```
+
+- Creación del superusuario
+```bash
+python manage.py createsuperuser
+```

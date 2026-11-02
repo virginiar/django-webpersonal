@@ -11,6 +11,7 @@ Conceptos utilizados:
 - Template tag url
 - Carga de ficheros estáticos
 - Template tag if y request.path
+- Creación de modelos
 
 ## Instalación con Pipenv
 - Instalación de paquetes
@@ -49,4 +50,20 @@ python manage.py migrate
 - Creación de una aplicación
 ```bash
 python manage.py startapp core
+```
+
+## Creación de modelos
+- Creación de una aplicación
+```bash
+python manage.py startapp portfolio
+```
+
+- Ejecución de la migración
+```bash
+python manage.py makemigrations portfolio
+```
+
+- Aplicación de la migración a la base de datos
+```bash
+python manage.py migrate portfolio
 ```

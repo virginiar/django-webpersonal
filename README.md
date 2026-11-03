@@ -13,6 +13,7 @@ Conceptos utilizados:
 - Template tag if y request.path
 - Creación de modelos
 - Personalización del panel de administración
+- Patrón Modelo-Vista-Template
 
 ## Instalación con Pipenv
 - Instalación de paquetes

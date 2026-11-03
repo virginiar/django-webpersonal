@@ -14,6 +14,7 @@ Conceptos utilizados:
 - Creación de modelos
 - Personalización del panel de administración
 - Patrón Modelo-Vista-Template
+- Campos opcionales
 
 ## Instalación con Pipenv
 - Instalación de paquetes

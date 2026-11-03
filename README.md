@@ -12,6 +12,7 @@ Conceptos utilizados:
 - Carga de ficheros estáticos
 - Template tag if y request.path
 - Creación de modelos
+- Personalización del panel de administración
 
 ## Instalación con Pipenv
 - Instalación de paquetes
